@@ -1,0 +1,14 @@
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/bin/Debug/net10.0/konsolowa
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/bin/Debug/net10.0/konsolowa.deps.json
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/bin/Debug/net10.0/konsolowa.runtimeconfig.json
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/bin/Debug/net10.0/konsolowa.dll
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/bin/Debug/net10.0/konsolowa.pdb
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/konsolowa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/konsolowa.AssemblyInfoInputs.cache
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/konsolowa.AssemblyInfo.cs
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/konsolowa.csproj.CoreCompileInputs.cache
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/konsolowa.dll
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/refint/konsolowa.dll
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/konsolowa.pdb
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/konsolowa.genruntimeconfig.cache
+/Users/antoni-ostrowski/coding/probe/5klasa/eg/numer_zdajacego/konsolowa/obj/Debug/net10.0/ref/konsolowa.dll
